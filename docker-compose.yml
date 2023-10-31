@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  web-app:
+        image: front-end
+        ports:
+          - "80:80"
