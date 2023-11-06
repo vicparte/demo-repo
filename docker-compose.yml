@@ -2,6 +2,6 @@ version: "3"
 
 services:
   web-app:
-        image: front-end
+        image: vicparte/dev-demo
         ports:
           - "80:80"
