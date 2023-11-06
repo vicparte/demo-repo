@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker build -t front-end:V.1 .
+docker build -t vicparte/dev-demo:latest .
 
 ###end of file#####
