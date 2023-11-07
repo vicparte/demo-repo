@@ -2,7 +2,7 @@
 
 # Define the image name and version file
 
-image_name="vicparte/dev-demo"
+image_name="vicparte/dev-react_image"
 version_file="version.txt"
 
 
