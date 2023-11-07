@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the image name and version file
+# Below line define name and version of image
 
 image_name="vicparte/dev-react_image"
 version_file="version.txt"
