@@ -2,6 +2,6 @@ version: "3"
 
 services:
   web-app:
-        image: vicparte/dev-demo
+        image: vicparte/dev-react_image
         ports:
           - "80:80"
